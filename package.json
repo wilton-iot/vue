@@ -145,5 +145,26 @@
     "commitizen": {
       "path": "./node_modules/cz-conventional-changelog"
     }
+  },
+  "wilton": {
+    "excludes": [
+      "benchmarks",
+      "dist/vue.common.js",
+      "dist/vue.esm.browser.js",
+      "dist/vue.esm.js",
+      "dist/vue.min.js",
+      "dist/vue.runtime.common.js",
+      "dist/vue.runtime.esm.js",
+      "dist/vue.runtime.js",
+      "dist/vue.runtime.min.js",
+      "examples",
+      "flow",
+      "packages",
+      "scripts",
+      "src",
+      "test",
+      "types",
+      "yarn.lock"
+    ]
   }
 }
