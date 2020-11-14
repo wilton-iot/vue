@@ -171,9 +171,6 @@
       "test",
       "types",
       "yarn.lock"
-    ],
-    "preMinifiedFiles": [
-        "dist/vue.js"
     ]
   }
 }
